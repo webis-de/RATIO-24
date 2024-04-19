@@ -2,7 +2,7 @@
 
 ### Extending the Comparative Argumentative Machine: Multilingualism and Stance Detection
 
-[[Paper: TBD](TBD)] [[Code and Data](https://github.com/webis-de/ratio24-multilingual-cam)]
+[[Paper](https://webis.de/publications.html#nikishina_2024)] [[Code and Data](https://github.com/webis-de/ratio24-multilingual-cam)]
 
 ### Objective Argument Summarization in Search
 
