@@ -7,3 +7,7 @@
 ### Objective Argument Summarization in Search
 
 [[Paper: TBD](TBD)] [[Code and Data](https://github.com/shahbazsyed/oasis-demo)] [[Neutralization](https://github.com/timonziegenbein/appropriateness-style-transfer)]
+
+
+### Are Large Language Models Reliable Argument Quality Annotators?
+[[Paper](https://webis.de/publications.html#mirzakhmedova_2024b)] [[Code and Data: TBD](#)]
