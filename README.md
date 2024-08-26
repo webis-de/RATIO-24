@@ -6,7 +6,7 @@
 
 ### Objective Argument Summarization in Search
 
-[[Paper]((https://webis.de/publications.html#ziegenbein_2024))] [[Code and Data](https://github.com/shahbazsyed/oasis-demo)] [[Neutralization](https://github.com/timonziegenbein/inappropriateness-mitigation)]
+[[Paper](https://webis.de/publications.html#ziegenbein_2024)] [[Code and Data](https://github.com/shahbazsyed/oasis-demo)] [[Neutralization](https://github.com/timonziegenbein/inappropriateness-mitigation)]
 
 
 ### Are Large Language Models Reliable Argument Quality Annotators?
