@@ -10,4 +10,4 @@
 
 
 ### Are Large Language Models Reliable Argument Quality Annotators?
-[[Paper](https://webis.de/publications.html#mirzakhmedova_2024b)] [[Code and Data: TBD](#)]
+[[Paper](https://webis.de/publications.html#mirzakhmedova_2024b)] [[Code](https://github.com/nelliemirz/llms-as-argument-quality-annotators)] [[Data](https://zenodo.org/records/13692561)]
